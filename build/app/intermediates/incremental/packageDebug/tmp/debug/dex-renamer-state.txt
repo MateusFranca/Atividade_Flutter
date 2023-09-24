@@ -1,0 +1,4 @@
+#Sun Sep 24 17:32:21 BRT 2023
+base.0=C\:\\Users\\dacas\\Documents\\projetos-flutter\\atividade-flutter\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
